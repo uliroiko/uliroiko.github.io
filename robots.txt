@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uliroiko.github.io/HSW/sitemap_index.txt
+Sitemap: https://uliroiko.github.io/Tsx/sitemap_index.txt
+Sitemap: https://uliroiko.github.io/eUv/sitemap_index.txt
+Sitemap: https://uliroiko.github.io/iLt/sitemap_index.txt
